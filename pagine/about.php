@@ -34,7 +34,7 @@
     <main>
         <section class="bio fade-in" style="text-align: center;">
             <!-- Immagine profilo: ../assets/img/profile.jpg -->
-            <img src="../assets/img/profile.jpg" alt="Foto profilo" class="profile-img">
+            <img src="../assets/img/profile.png" alt="Foto profilo" class="profile-img">
             <p><strong>Città: Verano Brianza</strong></p> 
             <p><strong>Telefono: (+39) 3314994975</strong> </p>
             <p><strong>Mail: <a href="mailto:matti.molte@gmail.com">matti.molte@gmail.com</a></strong> </p>

@@ -30,7 +30,7 @@
         </nav>
         <div class="intro" style="margin-bottom: 0;">
             <!-- Sostituisci profile.jpg con la tua foto -->
-            <img src="assets/img/profile.jpg" alt="Foto profilo" class="profile-img">
+            <img src="assets/img/profile.png" alt="Foto profilo" class="profile-img">
         </div>
     </header>
 
