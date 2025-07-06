@@ -36,7 +36,7 @@
             <div style="background: var(--white); border-radius: 14px; box-shadow: 0 2px 12px #2563eb11; padding: 32px 28px; max-width: 600px; width: 100%;">
                 <h2 style="color: var(--accent); font-size: 1.5rem; margin-bottom: 10px;">Cameriere</h2>
                 <p style="margin:0 0 8px 0;"><strong>02/2025 – Attuale</strong></p>
-                <p style="margin:0 0 18px 0;"><a href="https://www.mannarino.com/" target="_blank" style="color:var(--accent);text-decoration:underline;font-weight:600;">Mannarino srl. - Seregno</a></p>
+                <p style="margin:0 0 18px 0;"><a href="https://www.ilmannarino.it/" target="_blank" style="color:var(--accent);text-decoration:underline;font-weight:600;">Mannarino srl. - Seregno</a></p>
                 <ul style="text-align:left; max-width:500px; margin:0 auto; font-size:1.08rem; line-height:1.7; color:var(--primary); padding-left: 22px;">
                     <li>Pulizia e riordino della sala a fine servizio in preparazione al turno successivo.</li>
                     <li>Presa delle ordinazioni e servizio al tavolo.</li>

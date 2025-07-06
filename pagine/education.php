@@ -11,7 +11,7 @@
 <body>
     <header>
         <nav class="navbar">
-            <div class="logo">
+            <div class="logo"> <!-- Logo o iniziali -->
                 <a href="../index.php">Mattia Molteni</a>
             </div>
             <button class="hamburger" aria-label="Apri menu di navigazione" aria-expanded="false" aria-controls="main-menu">

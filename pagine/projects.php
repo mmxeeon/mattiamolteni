@@ -34,7 +34,7 @@
     <main>
         <section class="projects-section fade-in" style="display: flex; flex-direction: column; gap: 38px; align-items: center;">
             <div style="background: var(--white); border-radius: 14px; box-shadow: 0 2px 12px #2563eb11; padding: 32px 28px; max-width: 600px; width: 100%; text-align: center;">
-                <h2 style="color: var(--accent); font-size: 1.5rem; margin-bottom: 10px;">CivicVois</h2>
+                <a href="https://civicvois.netsons.org/"> <h2 style="color: var(--accent); font-size: 1.5rem; margin-bottom: 10px;">CivicVois</h2></a>
                 <img src="../assets/img/civicvoisLogo.png" alt="CivicVois" class="project-img" style="margin-bottom: 18px;">
                 <p style="margin:0 0 8px 0;">CivicVois è una piattaforma digitale per la segnalazione urbana, sviluppata per facilitare la comunicazione tra cittadini e amministrazioni. Ho curato l'ideazione, lo sviluppo software e la gestione database.</p>
             </div>
