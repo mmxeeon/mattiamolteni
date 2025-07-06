@@ -1,0 +1,29 @@
+/* Responsive design */
+@media (max-width: 900px) {
+    .navbar {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 10px;
+    }
+    .navbar ul {
+        flex-direction: column;
+        gap: 10px;
+    }
+}
+
+@media (max-width: 600px) {
+    .bio, .education-section, .experience-section, .projects-section, .contact-section {
+        padding: 20px 8px;
+    }
+    .intro h1 {
+        font-size: 1.5rem;
+    }
+    .profile-img {
+        width: 100px;
+        height: 100px;
+    }
+    .project-img {
+        width: 80px;
+        height: 80px;
+    }
+}
