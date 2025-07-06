@@ -39,6 +39,7 @@
             <h2 style="font-size: 2.3rem; font-weight: 800; color: var(--primary); margin-bottom: 32px; letter-spacing: 1px;">Portfolio Personale</h2>
             <p style="font-size: 1.25rem; color: var(--primary); max-width: 600px; margin: 0 auto 38px auto; line-height: 1.7;">Benvenuto! Qui puoi scoprire il mio percorso, le mie competenze e i miei progetti. Utilizza il menu in alto per approfondire ogni aspetto della mia formazione e delle mie esperienze.</p>
             <a href="pagine/about.php" class="btn" style="font-size: 1.1rem; padding: 12px 32px;">Scopri di più su di me</a>
+            <a href="assets/cv/Mattia_Molteni_CV.pdf" class="btn" download style="margin-top: 18px; display: inline-block; font-size: 1.1rem; padding: 12px 32px;">Scarica il mio CV</a>
         </section>
     </main>
 
